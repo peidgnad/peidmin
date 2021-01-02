@@ -1,19 +1,8 @@
 <p align="center">
-    <a href="https://github.com/peidgnad/peidmin/actions">
-        <img src="https://github.com/peidgnad/peidmin/workflows/tests/badge.svg" alt="Build Status">
-    </a>
-
-    <a href="https://packagist.org/packages/peidgnad/peidmin">
-        <img src="https://img.shields.io/packagist/dt/peidgnad/peidmin" alt="Total Downloads">
-    </a>
-
-    <a href="https://packagist.org/packages/peidgnad/peidmin">
-        <img src="https://img.shields.io/packagist/v/peidgnad/peidmin" alt="Latest Stable Version">
-    </a>
-
-    <a href="https://packagist.org/packages/peidgnad/peidmin">
-        <img src="https://img.shields.io/packagist/l/peidgnad/peidmin" alt="License">
-    </a>
+<a href="https://github.com/peidgnad/peidmin/actions"><img src="https://img.shields.io/github/workflow/status/peidgnad/peidmin/tests" alt="Build Status"></a>
+<a href="https://packagist.org/packages/peidgnad/peidmin"><img src="https://img.shields.io/packagist/dt/peidgnad/peidmin" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/peidgnad/peidmin"><img src="https://img.shields.io/packagist/v/peidgnad/peidmin" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/peidgnad/peidmin"><img src="https://img.shields.io/packagist/l/peidgnad/peidmin" alt="License"></a>
 </p>
 
 Requirements
@@ -48,4 +37,4 @@ Credits
 License
 ------------
 
-`peidmin` is licensed under [The MIT License (MIT)](LICENSE).
+`peidmin` is licensed under [The MIT License (MIT)](LICENSE.md).
