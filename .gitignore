@@ -1,0 +1,10 @@
+composer.lock
+package-lock.json
+yarn.lock
+vendor
+tests/temp
+node_modules
+phpunit.xml
+.idea
+.php_cs.cache
+.phpunit.result.cache
